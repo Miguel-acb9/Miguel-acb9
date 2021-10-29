@@ -27,6 +27,26 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
+<!-- Estatísticas do Github -->
+<h2 align="center">🔶 Estatísticas do Github 🔶</h2>                                                                                                                     
+<table border="0">
+    <tr border="0">
+        <td width="38%" align="center">
+            <img alt="As principais liguagens do Miguel" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10"/>
+        </td>
+        <td width="62%" align="center">
+            <img alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F" />
+            <img alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F"/>
+        </td>
+    </tr>
+</table>
+<i>
+    <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
+    meu código público consiste e não reflete o nível de experiência ou habilidade.
+</i>
+
+<!-- Gráfico de Contribuição -->
+![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true)
 
 <!-- Principais Linguagens -->
 <h2 align="center">🔶 Principais tecnologias 🔶</h2>     
@@ -48,31 +68,13 @@ class Skills extends SoftwareDeveloper {
     <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F04A2F"></a>
 </p>
 
-
-<!-- Estatísticas do Github -->
-<h2 align="center">🔶 Estatísticas do Github 🔶</h2>                                                                                                                     
-<table border="0">
-    <tr border="0">
-        <td width="38%" align="center">
-            <img alt="As principais liguagens do Miguel" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10"/>
-        </td>
-        <td width="62%" align="center">
-            <img alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F" />
-            <img alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F"/>
-        </td>
-    </tr>
-</table>
-<i>
-    <b>Nota:</b> Os principais idiomas são apenas uma métrica dos idiomas em que 
-    meu código público consiste e não reflete o nível de experiência ou habilidade.
-</i>
-
-<!-- Gráfico de Contribuição -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true)
-
 ___
 <!-- Animação da Cobra -->
-![Snake animation](https://github.com/Miguel-acb9/Miguel-acb9/blob/output/github-contribution-grid-snake.svg)
+![Animação da Cobra](https://github.com/Miguel-acb9/Miguel-acb9/blob/output/github-contribution-grid-snake.svg)
+
+___
+<!-- Agradecimentos -->
+<h3 align="center">🔶 Obrigado! 🔶</h3>   
 
 <!--
 PALETA DE CORES
