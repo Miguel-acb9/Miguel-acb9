@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center">🔹 Olá, eu sou o Miguel Alves 🔹</h1>
+<h1 align="center">🔶 Olá, eu sou o Miguel Alves 🔶</h1>
 
 <!-- Redes Sociais -->
 <p align="center">  
@@ -29,7 +29,7 @@ class Skills extends SoftwareDeveloper {
 
 ___
 <!-- Estatísticas do Github -->
-<h2 align="center">🔹 Estatísticas do Github 🔹</h2>                                                                                                                     
+<h2 align="center">🔶 Estatísticas do Github 🔶</h2>                                                                                                                     
 <table border="0">
     <tr border="0">
         <td width="38%" align="center">
@@ -51,7 +51,7 @@ ___
 
 ___
 <!-- Principais Linguagens -->
-<h2 align="center">🔹 Principais tecnologias 🔹</h2>     
+<h2 align="center">🔶 Principais tecnologias 🔶</h2>     
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=FFA64C"></a>
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=FFA64C"></a>
