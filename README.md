@@ -1,9 +1,21 @@
 ## Olá! Eu sou o Miguel Alves 
 
+<section>
+
+</section>
+
+
 <div>
     <a href="https://github.com/Miguel-acb9">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-acb9&layout=compact&langs_count=7&theme=light"/>
+    <p align="center">
+        <a href="https://github.com/Miguel-acb9">
+            <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Miguel-acb9&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&count_private=true&show_icons=true&theme=merko" />
+            <img align="center" height="277em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&theme=merko"/>
+        </a>
+    </p>
 </div>
 
 
@@ -26,3 +38,6 @@ ___
 ![Snake animation](https://github.com/Miguel-acb9/Miguel-acb9/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=000000&color=9090ff&line=0505ff&point=ffffff&area=true&hide_border=true)
