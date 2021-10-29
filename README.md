@@ -27,6 +27,30 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
+<!-- Principais Linguagens -->
+<h2 align="center">🔶 Principais tecnologias 🔶</h2>     
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=cplusplus&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Powershell-%230D1117.svg?style=flat-square&logo=powershell&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F04A2F"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Figma-%230D1117.svg?style=flat-square&logo=figma&logoColor=F04A2F"></a>
+</p><br/>
+
 <!-- Estatísticas do Github -->
 <h2 align="center">🔶 Estatísticas do Github 🔶</h2>                                                                                                                     
 <table border="0">
@@ -47,26 +71,6 @@ class Skills extends SoftwareDeveloper {
 
 <!-- Gráfico de Contribuição -->
 ![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true&locale=pt-br)
-
-<!-- Principais Linguagens -->
-<h2 align="center">🔶 Principais tecnologias 🔶</h2>     
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F04A2F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F04A2F"></a>
-</p>
 
 ___
 <!-- Animação da Cobra -->
