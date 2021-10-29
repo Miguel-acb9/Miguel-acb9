@@ -74,7 +74,10 @@ ___
 
 ___
 <!-- Agradecimentos -->
-<h4 align="center">🔶 Obrigado! 🔶</h4>   
+<h4 align="center">🔶 Obrigado! 🔶</h4>
+
+<!-- Contador de Visitantes -->
+![Número de Visitates](https://visitor-badge.glitch.me/badge?page_id=Miguel-acb9.visitor-badge&left_color=red&right_color=orange&left_text=Visitantes)
 
 
 <!--
