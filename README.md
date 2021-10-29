@@ -74,7 +74,7 @@ ___
 
 ___
 <!-- Agradecimentos -->
-<h3 align="center">🔶 Obrigado! 🔶</h3>   
+<h4 align="center">🔶 Obrigado! 🔶</h4>   
 
 
 <!--
