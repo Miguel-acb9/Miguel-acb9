@@ -49,7 +49,7 @@ class Skills extends SoftwareDeveloper {
     <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F04A2F"></a>
     <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F04A2F"></a>
     <a href="#"><img src="https://img.shields.io/badge/Figma-%230D1117.svg?style=flat-square&logo=figma&logoColor=F04A2F"></a>
-</p><br/>
+</p>
 
 <!-- Estatísticas do Github -->
 <h2 align="center">🔶 Estatísticas do Github 🔶</h2>                                                                                                                     
