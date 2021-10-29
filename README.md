@@ -3,9 +3,9 @@
 
 <!-- Redes Sociais -->
 <p align="center">  
-  <a href="mailto:miguelalves1258@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F04A2F"></a>
-  <a href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F04A2F"></a> 
-  <a href="https://www.instagram.com/miguel_acb9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F04A2F"></a>
+  <a title="Email para Miguel" href="mailto:miguelalves1258@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F04A2F"></a>
+  <a title="Linkedin do Miguel" href="https://www.linkedin.com/in/miguel-acb9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F04A2F"></a> 
+  <a title="Instagram do Miguel" href="https://www.instagram.com/miguel_acb9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F04A2F"></a>
 </p>
 
 
@@ -32,11 +32,11 @@ class Skills extends SoftwareDeveloper {
 <table border="0">
     <tr border="0">
         <td width="38%" align="center">
-            <img alt="As principais liguagens do Miguel" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10"/>
+            <img title="As principais liguagens do Miguel" alt="As principais liguagens do Miguel" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10"/>
         </td>
         <td width="62%" align="center">
-            <img alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F" />
-            <img alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F"/>
+            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F" />
+            <img title="Estatísticas do Miguel do Github" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F"/>
         </td>
     </tr>
 </table>
@@ -75,6 +75,7 @@ ___
 ___
 <!-- Agradecimentos -->
 <h3 align="center">🔶 Obrigado! 🔶</h3>   
+
 
 <!--
 PALETA DE CORES
