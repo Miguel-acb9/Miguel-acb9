@@ -73,16 +73,8 @@ class Skills extends SoftwareDeveloper {
 ![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true&locale=pt-br)
 
 ___
-<!-- Descrição(Texto) -->
-<p align="center"><i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão."</i> - <b>Rafael Lain</b></p><br />
-
-<p>No início, apenas uma brincadeira de ver um "Hello World!" na tela preta. No entanto, hoje, pretendo fazer desse meu hobby a minha profissão, e por meio dessa brincadeira entregar aplicações eficientes e completas.</p>
-
-<p>Fascinado pela programação, atualmente, sou graduando de Sistemas de Informação na Universidade Federal de Goiás e busco aplicar meus conhecimentos como membro voluntário da empresa júnior do instituto de informática Level5.</p>
-
-<p>Gosto de gerar e ideias e propor soluções para problemas relevantes. Com motivação, criatividade e engenhosidade busco resolver as adversidades do dia a dia mantendo uma atitude positiva e proativa.</p>
-
-<p>Atualmente, estou buscando oportunidades que me permitam atuar como desevolvedor e promover tecnologias e ferramentas que beneficiem a sociedade como um todo. Os campos de interesse específicos incluem desenvolvimento Full Stack e Mobile.</p>
+<!-- Citação -->
+<br /><p align="center"><i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão."</i> - <b>Rafael Lain</b></p><br />
 
 ___
 <!-- Animação da Cobra -->
