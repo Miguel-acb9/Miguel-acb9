@@ -32,11 +32,11 @@ class Skills extends SoftwareDeveloper {
 <table border="0">
     <tr border="0">
         <td width="38%" align="center">
-            <img title="As principais liguagens do Miguel" alt="As principais liguagens do Miguel" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10"/>
+            <img title="Línguas Mais Usadas" alt="Línguas Mais Usadas" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Miguel-acb9&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=F04A2F&icon_color=F04A2F&langs_count=10&langs_count=10&locale=pt-br"/>
         </td>
         <td width="62%" align="center">
-            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F" />
-            <img title="Estatísticas do Miguel do Github" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F"/>
+            <img title="Estatísticas de Sequência do Miguel" alt="Estatísticas de Sequência do Miguel" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-acb9&hide_border=true&theme=react&background=161B22&ring=A5D6F1&fire=F04A2F&dates=A5D6F1&currStreakLabel=F7630C&sideLabels=F7630C&currStreakNum=F04A2F&sideNums=F04A2F&locale=pt-br" />
+            <img title="Estatísticas do Github de Miguel Alves" alt="Estatísticas do Miguel do Github" src="https://github-readme-stats.vercel.app/api?username=Miguel-acb9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161B22&title_color=F7630C&text_color=A5D6F1&icon_color=F04A2F&locale=pt-br"/>
         </td>
     </tr>
 </table>
@@ -46,7 +46,7 @@ class Skills extends SoftwareDeveloper {
 </i>
 
 <!-- Gráfico de Contribuição -->
-![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true)
+![Gráfico de Atividades do Github](https://activity-graph.herokuapp.com/graph?username=Miguel-acb9&bg_color=161B22&color=F7630C&line=A5D6F1&point=F04A2F&hide_border=true&locale=pt-br)
 
 <!-- Principais Linguagens -->
 <h2 align="center">🔶 Principais tecnologias 🔶</h2>     
