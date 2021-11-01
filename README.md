@@ -84,6 +84,7 @@ ___
 <!-- Agradecimentos -->
 <h4 align="center">🔶 Obrigado! 🔶</h4>
 <p align="center">🇧🇷 🇧🇷 🇧🇷</p>
+<h6 align="center">MacB</h6>
 
 <!--
 PALETA DE CORES
