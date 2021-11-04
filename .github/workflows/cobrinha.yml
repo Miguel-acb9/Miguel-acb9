@@ -3,7 +3,7 @@ name: Generate Datas
 
 on:
     schedule:
-        - cron: "* */12 * * *"  # Esta ação ocorre a cada 12 horas.
+        - cron: "* */6 * * *"  # Esta ação ocorre a cada 6 horas.
     workflow_dispatch:  # Executa a ação automaticamente na guia Ações.
 
 
